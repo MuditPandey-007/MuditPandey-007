@@ -143,7 +143,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/MuditPandey-007/MuditPandey-007/output/snake.svg" alt="Snake animation" />
-
-###
