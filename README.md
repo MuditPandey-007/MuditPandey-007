@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Mudit Pandey from Jaipur, India.<br><br>- 🏫 I'm currently pusuing B.tech in computer science with specialization in AI and ML from JECRC UNIVERSITY, Jaipur and currently in my final year.<br>- 👀 I’m intersted in coding and development. Coding is my passion and I love to learn new things everyday so that I can achieve big in this beautiful world of programming.<br>- 🔭 I’m working as an Intern at Persistent Systems <br>- 📚 I’m currently learning Web Development and AIML. and my skils are : C/C++, Python, Html, CSS, Javascript, Video-editing, R, Machine learning, Python libraries.<br>- 💞️ I’m looking to collaborate on projects related to my skills.<br>- ⚡ In my free time I research about tech and learn new things everyday, technology excites me and motivates to explore more and more. Apart from that I play PC games and do video editing, graphic designing stuff too.</p>
+<p align="left">I'm Mudit Pandey from Jaipur, India.<br><br>- 👀 I’m intersted in coding and development. Coding is my passion and I love to learn new things everyday so that I can achieve big in this beautiful world of programming.<br>- 📚 I’m currently learning Web Development and AIML. and my skils are : C/C++, Python, Html, CSS, Javascript, Video-editing, R, Machine learning, Python libraries.<br>- 💞️ I’m looking to collaborate on projects related to my skills.<br>- ⚡ In my free time I research about tech and learn new things everyday, technology excites me and motivates to explore more and more. Apart from that I play PC games and do video editing, graphic designing stuff too.</p>
 
 ###
 
@@ -130,8 +130,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuditPandey-007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuditPandey-007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuditPandey-007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuditPandey-007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
